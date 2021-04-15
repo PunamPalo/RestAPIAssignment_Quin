@@ -1,5 +1,7 @@
 package resources;
 
+/** enums are used to store constants or methods*/
+
 public enum APIResources {
 	
 	CreteBinAPI("https://api.jsonbin.io/v3/b"),

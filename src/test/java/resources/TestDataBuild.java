@@ -6,7 +6,7 @@ import pojo.AddBIN;
 
 public class TestDataBuild {
 
-	
+	/** This method is used to set the data load */
 	
 	public AddBIN addBinPayLoad(String name,String address)
 	{

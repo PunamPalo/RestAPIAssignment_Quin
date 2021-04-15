@@ -1,5 +1,6 @@
 package pojo;
 
+/** get and set @param name and @param address*/
 
 public class AddBIN {
 

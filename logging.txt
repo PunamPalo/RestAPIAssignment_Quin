@@ -1,0 +1,174 @@
+Request method:	POST
+Request URI:	https://api.jsonbin.io/v3/b
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Master-Key=$2b$10$ny7gi6kk.p7AzIo4oeBo7ecw63D6O/frcHg7eEhMzGlp1gaCHK0za
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Punamn",
+    "address": "World cross center changed"
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Apr 2021 10:40:06 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=da685b20c2231217eb50f38663fe7c3e21618483205; expires=Sat, 15-May-21 10:40:05 GMT; path=/; domain=.jsonbin.io; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+ETag: W/"a6-PK7pRdF+Rl7n1n49gkFrUU/znlQ"
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0976b6ee5600004c209e332000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=Jgcw9usN8mMIopv9FjpiOrZliH4Dx8Pt43wHLQimBAsgcONOU8YrGcV%2FMZ415pvE9Jr5nj6CHCyHTkXzHLH9dzyuKUA%2BLdRmM66Vdy7I6g%3D%3D"}],"group":"cf-nel"}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 64048dc3bab24c20-AMS
+Content-Encoding: gzip
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "record": {
+        "name": "Punamn",
+        "address": "World cross center changed"
+    },
+    "metadata": {
+        "id": "60781806ee971419c4da211d",
+        "createdAt": "2021-04-15T10:40:06.160Z",
+        "private": true
+    }
+}
+Request method:	GET
+Request URI:	https://api.jsonbin.io/v3/b/60781806ee971419c4da211d
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	BIN_ID=60781806ee971419c4da211d
+Headers:		X-Master-Key=$2b$10$ny7gi6kk.p7AzIo4oeBo7ecw63D6O/frcHg7eEhMzGlp1gaCHK0za
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 15 Apr 2021 10:40:07 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d41e97e7a69199270b9987ae9d098ef971618483206; expires=Sat, 15-May-21 10:40:06 GMT; path=/; domain=.jsonbin.io; HttpOnly; SameSite=Lax; Secure
+x-powered-by: Express
+access-control-allow-origin: *
+etag: W/"7f-aRICplLQ9zUk7Lf/hMxPQyz7qmc"
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0976b6f2e700002074d72a3000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=Pv8I25orhN6B05t1pSuMtpanlVLAlZxbISakuLYa88JKsSDaMA8brsmUVcOn1%2BCx8NXE77m4l%2BrjpkArpDg%2FBgpHwcHWnc1JMOpGKxoY%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 64048dcb0ff72074-AMS
+Content-Encoding: gzip
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "record": {
+        "name": "Punamn",
+        "address": "World cross center changed"
+    },
+    "metadata": {
+        "id": "60781806ee971419c4da211d",
+        "private": true
+    }
+}
+Request method:	PUT
+Request URI:	https://api.jsonbin.io/v3/b/60781806ee971419c4da211d
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	BIN_ID=60781806ee971419c4da211d
+Headers:		X-Master-Key=$2b$10$ny7gi6kk.p7AzIo4oeBo7ecw63D6O/frcHg7eEhMzGlp1gaCHK0za
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Poonam",
+    "address": "Sea cross center changed"
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Apr 2021 10:40:08 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d4e69e4e6bb983be28ae4fec25038504d1618483207; expires=Sat, 15-May-21 10:40:07 GMT; path=/; domain=.jsonbin.io; HttpOnly; SameSite=Lax; Secure
+x-powered-by: Express
+access-control-allow-origin: *
+etag: W/"83-MWCRghzMLFX9LG3KvK3ES3FcHJ4"
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0976b6f5cb00009c4563b61000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=5vqYV2%2BSE93muXJ%2B2PS%2FZHckk8tfK88W%2BhLl7PL97aVvlBMl0Uac2lOQP%2B06YRy0iEBa1S7ZLufGEuQrrOIzul1SbA8evdcM43oKaut2HA%3D%3D"}]}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 64048dcfaec09c45-AMS
+Content-Encoding: gzip
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "record": {
+        "name": "Poonam",
+        "address": "Sea cross center changed"
+    },
+    "metadata": {
+        "parentId": "60781806ee971419c4da211d",
+        "private": true
+    }
+}
+Request method:	DELETE
+Request URI:	https://api.jsonbin.io/v3/b/60781806ee971419c4da211d
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	BIN_ID=60781806ee971419c4da211d
+Headers:		X-Master-Key=$2b$10$ny7gi6kk.p7AzIo4oeBo7ecw63D6O/frcHg7eEhMzGlp1gaCHK0za
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 15 Apr 2021 10:40:08 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d9c2ecea6b7ecf47c46f9826a43651f261618483208; expires=Sat, 15-May-21 10:40:08 GMT; path=/; domain=.jsonbin.io; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+ETag: W/"67-0TMBDSvdhCCOgmUn1s4xxJnMBSc"
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0976b6f88d00000c5d28890000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=7puG6eNyzoOLv0Ng%2FHzZZJCy7TnLSncqYEqEQ%2BisshBKfFPrY4WLQDe3tikh3qXRMW1%2BSlPVd9IbcQKkljckxps5%2F8JxoA3pZbV%2BYhX08Q%3D%3D"}],"max_age":604800}
+NEL: {"max_age":604800,"report_to":"cf-nel"}
+Server: cloudflare
+CF-RAY: 64048dd41ae70c5d-AMS
+Content-Encoding: gzip
+alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "metadata": {
+        "id": "60781806ee971419c4da211d",
+        "versionsDeleted": 0
+    },
+    "message": "Bin deleted successfully"
+}

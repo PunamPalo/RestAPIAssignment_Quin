@@ -4,7 +4,6 @@ import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
 import java.io.IOException;
-import java.util.Map;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

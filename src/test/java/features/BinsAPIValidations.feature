@@ -7,7 +7,7 @@ Scenario: Verify if Bin is being sucessfully added using createBinsAPI
 	
 Examples:
 		|name 	 |  address		   	   | 
-		|Punamn	 |  World cross center changed | 
+		|Punamn	 |  Test Address | 
 		
 
 @ReadBin	
@@ -24,7 +24,7 @@ Scenario: Verify if Update Bin functionality is working
 	
 Examples:
 		|name 	 |  address		   	   		   | 
-		|Poonam	 |  Sea cross center changed   | 
+		|Poonam	 |  Changed Test Address   | 
 
 @DeleteBin		
 Scenario: Verify if Delete Bin functionality is working
